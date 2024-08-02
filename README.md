@@ -12,9 +12,9 @@ A Flutter application that utilizes the `flutter_bloc` package to manage state. 
 ## Screenshots
 
 <p align="center">
-  <img src="Images/screenshots/p1.jpg" alt="Screenshot 1" width="300"/>
-  <img src="Images/screenshots/p2.jpg" alt="Screenshot 1" width="300"/>
-  <img src="Images/screenshots/p3.jpg" alt="Screenshot 1" width="300"/>
+  <img src="Images/screenshots/p1.jpg" alt="Screenshot 1" width="230"/>
+  <img src="Images/screenshots/p2.jpg" alt="Screenshot 1" width="230"/>
+  <img src="Images/screenshots/p3.jpg" alt="Screenshot 1" width="230"/>
 </p>
 
 ## Getting Started
